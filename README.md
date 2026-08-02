@@ -1,2 +1,3 @@
 # FINPILOT-AI
-A fntech app where your finance will be managed.
+
+A fintech app where your finances are managed in one place.
